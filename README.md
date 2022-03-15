@@ -2,7 +2,7 @@
 ![](./img/177fd52032950db54.jpeg)
 
 
-<img src="/Users/nailseong/Documents/nailseong/img/177fd52032950db54.jpeg" height="300" width="450"/>
+<img src="./img/177fd52032950db54.jpeg" height="300" width="450"/>
 
 <!--
 **nailseong/nailseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
