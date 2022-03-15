@@ -1,6 +1,5 @@
 ### Hi there 👋
-<!-- ![](./img/177fd52032950db54.jpeg) -->
-
+#### Call me `Rick` or `Ilseong` 👀
 <div align="center">
   <img src="./img/177fd52032950db54.jpeg" height="400" width="600"/>
 </div>
